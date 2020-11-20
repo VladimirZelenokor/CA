@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1/Week 12/Ex 1/simulation/modelsim
+valu_testbench
+Z1 !s110 1605882575
+!i10b 1
+!s100 n4_RhCEANXGf_kF9dU5lN1
+IPbMd6YQiF2;=z=h:Y4_7T0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1605882365
+8C:/intelFPGA_lite/18.1/Week 12/Ex 1/alu_testbench.v
+FC:/intelFPGA_lite/18.1/Week 12/Ex 1/alu_testbench.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1605882575.000000
+!s107 C:/intelFPGA_lite/18.1/Week 12/Ex 1/alu_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/18.1/Week 12/Ex 1|C:/intelFPGA_lite/18.1/Week 12/Ex 1/alu_testbench.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/intelFPGA_lite/18.1/Week 12/Ex 1}
+Z5 tCvgOpt 0
+vex1
+R1
+!i10b 1
+!s100 B;SFinMIQlz:LA;ZX@JOo3
+IOzL8eEPnA<D5j0L<Lk2h61
+R2
+R0
+Z6 w1605882568
+Z7 8ex1.vo
+Z8 Fex1.vo
+L0 31
+R3
+r1
+!s85 0
+31
+Z9 !s108 1605882574.000000
+Z10 !s107 ex1.vo|
+Z11 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex1.vo|
+!i113 1
+R4
+Z12 !s92 -vlog01compat -work work +incdir+.
+R5
+vhard_block
+R1
+!i10b 1
+!s100 3BB^7P94;8mWR>jDH>J]=0
+I]49DZObzAcG0cOEZL?VPR2
+R2
+R0
+R6
+R7
+R8
+L0 7166
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R4
+R12
+R5
