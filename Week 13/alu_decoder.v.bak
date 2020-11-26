@@ -1,0 +1,6 @@
+module alu_decoder	
+(
+	input [5:0] funct,
+	input [1:0] ÀLUOp,
+	output [2:0] ALUControl
+);
